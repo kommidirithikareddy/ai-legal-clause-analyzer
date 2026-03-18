@@ -2,7 +2,7 @@
 
 An AI-powered web app that analyzes legal clauses for risks, missing terms, and provides plain-English summaries using Claude AI.
 
-**Live Demo**: [Deploy to Vercel](#deployment)
+**Live Demo**: [Coming soon..](#deployment)
 **Built with**: React + TypeScript + Tailwind CSS + Claude API
 
 ---
